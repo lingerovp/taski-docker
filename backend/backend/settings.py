@@ -1,4 +1,4 @@
-84.201.167.240import os
+import os
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
